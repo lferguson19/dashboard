@@ -1,0 +1,38 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://horizon.stellar.org/operations/185831483868598274"
+    },
+    "transaction": {
+      "href": "https://horizon.stellar.org/transactions/017479029b91a60381ee995ff679d1cd59a583a3b6bb82aac800cb4191bdb016"
+    },
+    "effects": {
+      "href": "https://horizon.stellar.org/operations/185831483868598274/effects"
+    },
+    "succeeds": {
+      "href": "https://horizon.stellar.org/effects?order=desc\u0026cursor=185831483868598274"
+    },
+    "precedes": {
+      "href": "https://horizon.stellar.org/effects?order=asc\u0026cursor=185831483868598274"
+    }
+  },
+  "id": "185831483868598274",
+  "paging_token": "185831483868598274",
+  "transaction_successful": true,
+  "source_account": "GBKVY35IBJVTOPMXITRCYBASSFFMFJOALHSQP2ZZNSAVOSYAFO4KLFPD",
+  "type": "manage_buy_offer",
+  "type_i": 12,
+  "created_at": "2022-10-25T04:29:32Z",
+  "transaction_hash": "017479029b91a60381ee995ff679d1cd59a583a3b6bb82aac800cb4191bdb016",
+  "amount": "171.8809115",
+  "price": "4.0699426",
+  "price_r": {
+    "n": 20349713,
+    "d": 5000000
+  },
+  "buying_asset_type": "credit_alphanum4",
+  "buying_asset_code": "XRP",
+  "buying_asset_issuer": "GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P",
+  "selling_asset_type": "native",
+  "offer_id": "1090195818"
+}
